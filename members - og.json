@@ -1,0 +1,611 @@
+[
+  {
+    "name": "Yash Kalbhor",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Yash Kalbhor.jpg"
+  },
+  {
+    "name": "Harshil Desai",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Harshil Desai.png"
+  },
+  {
+    "name": "Disha Sejpal",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Disha Sejpal.png"
+  },
+  {
+    "name": "Vedant Patel",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Vedant Patel.jpg"
+  },
+  {
+    "name": "Akshaj Ramakrishnan",
+    "department": "Web Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Akshaj Ramakrishnan.jpg"
+  },
+  {
+    "name": "Chaitya Doshi",
+    "department": "Business Development",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Chaitya Doshi.jpg"
+  },
+  {
+    "name": "Rohit Kamath",
+    "department": "UI/UX",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Rohit Kamath.jpg"
+  },
+  {
+    "name": "Samarth Roy Chowdhury",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Samarth Roy Chowdhury.png"
+  },
+  {
+    "name": "Nishchay Jain",
+    "department": "Photography",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Nishchay Jain.jpg"
+  },
+  {
+    "name": "Akshat Mangle",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Akshat Mangle.jpg"
+  },
+  {
+    "name": "Hetansh Jain",
+    "department": "Photography",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Hetansh Jain.jpg"
+  },
+  {
+    "name": "Hemil Shah",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Hemil Shah.jpg"
+  },
+  {
+    "name": "Meghna Sundaresan",
+    "department": "Digital Creatives",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Meghna Sundaresan.jpg"
+  },
+  {
+    "name": "Shivam Kulkarni",
+    "department": "Competitive Programming",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Shivam Kulkarni.jpg"
+  },
+  {
+    "name": "Siddh Purohit",
+    "department": "App Dev",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Siddh Purohit.JPG"
+  },
+  {
+    "name": "Akshata More",
+    "department": "AI/ML",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Akshata More.jpg"
+  },
+  {
+    "name": "Vasu Tuli",
+    "department": "Event Operations",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Vasu Tuli.jpg"
+  },
+  {
+    "name": "Dhruvi Goradia",
+    "department": "UI/UX",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Dhruvi Goradia.jpg"
+  },
+  {
+    "name": "Harsh Maru",
+    "department": "Digital Creatives",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Harsh Maru.JPG"
+  },
+  {
+    "name": "Samira Deepak",
+    "department": "AI/ML",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Samira Deepak.jpg"
+  },
+  {
+    "name": "Ketakee Joshi",
+    "department": "Competitive Programming",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Ketakee Joshi.jpg"
+  },
+  {
+    "name": "Dhruv Gundesha",
+    "department": "Photography",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Dhruv Gundesha.jpg"
+  },
+  {
+    "name": "Om Aditya Pandey",
+    "department": "Photography",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Om Aditya Pandey.jpg"
+  },
+  {
+    "name": "Udit Upadhyay",
+    "department": "Photography",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Udit Upadhyay.JPG"
+  },
+  {
+    "name": "Malav Gotecha",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Malav Gotecha.jpg"
+  },
+  {
+    "name": "Kushal Desai",
+    "department": "UI/UX",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Kushal Desai.jpg"
+  },
+  {
+    "name": "Rishabh Lalvani",
+    "department": "AI/ML",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Rishabh Lalvani.jpg"
+  },
+  {
+    "name": "Kush Gala",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Kush Gala.png"
+  },
+  {
+    "name": "Tanmay Thakar",
+    "department": "App Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Tanmay Thakar.jpg"
+  },
+  {
+    "name": "Smriti Lotlikar",
+    "department": "In-House Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Smriti Lotlikar.jpg"
+  },
+  {
+    "name": "Mansi Chudasama",
+    "department": "Marketing and Communication",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Mansi Chudasama.jpg"
+  },
+  {
+    "name": "Aaditya Mall",
+    "department": "Competitive Programming",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Aaditya Mall.jpg"
+  },
+  {
+    "name": "Palash Tralshawala",
+    "department": "Web Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Palash Tralshawala.jpg"
+  },
+  {
+    "name": "Vyom Shah",
+    "department": "Business Development",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Vyom Shah.jpg"
+  },
+  {
+    "name": "Arhya Singh",
+    "department": "In-House Creatives",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Arhya Singh.jpg"
+  },
+  {
+    "name": "Neel Lohith",
+    "department": "UI/UX",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Neel Lohith.jpg"
+  },
+  {
+    "name": "Aditya Sharma",
+    "department": "UI/UX",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Aditya Sharma.jpg"
+  },
+  {
+    "name": "Shrijesh Yadav",
+    "department": "App Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Shrijesh Yadav.jpg"
+  },
+  {
+    "name": "Om Anaokar",
+    "department": "Web Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Om Anaokar.jpg"
+  },
+  {
+    "name": "Namya Desai",
+    "department": "Competitive Programming",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Namya Desai.jpg"
+  },
+  {
+    "name": "Vedant Maheshwari",
+    "department": "Competitive Programming",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Vedant Maheshwari.jpg"
+  },
+  {
+    "name": "Mit Shah",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Mit Shah.jpg"
+  },
+  {
+    "name": "Amay Doshi",
+    "department": "AI/ML",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Amay Doshi.JPG"
+  },
+  {
+    "name": "Priyanshi Furiya",
+    "department": "AI/ML",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Priyanshi Furiya.jpg"
+  },
+  {
+    "name": "Pratika Ghag",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Pratika Ghag.jpg"
+  },
+  {
+    "name": "Bevin Johnson",
+    "department": "Web Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Bevin Johnson.jpg"
+  },
+  {
+    "name": "Abhishek Nair",
+    "department": "AI/ML",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Abhishek Nair.jpg"
+  },
+  {
+    "name": "Ashmit Jain",
+    "department": "Competitive Programming",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Ashmit Jain.jpg"
+  },
+  {
+    "name": "Rudra Joshi",
+    "department": "Competitive Programming",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Rudra Joshi.png"
+  },
+  {
+    "name": "Vedant Kasargod",
+    "department": "Marketing and Communication",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Vedant Kasargod.jpg"
+  },
+  {
+    "name": "Arhaan Bhiwandkar",
+    "department": "Marketing and Communication",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Arhaan Bhiwandkar.jpg"
+  },
+  {
+    "name": "Sukhada Gulhane",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Sukhada Gulhane.jpg"
+  },
+  {
+    "name": "Dhrumil Shah",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Dhrumil Shah.jpg"
+  },
+  {
+    "name": "Aanchal Shah",
+    "department": "In-House Creatives",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Aanchal Shah.jpg"
+  },
+  {
+    "name": "Gayatri Yadav",
+    "department": "Photography",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Gayatri Yadav.jpg"
+  },
+  {
+    "name": "Diya Nayak",
+    "department": "Competitive Programming",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Diya Nayak.jpg"
+  },
+  {
+    "name": "Manan Gandhi",
+    "department": "App Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Manan Gandhi.jpg"
+  },
+  {
+    "name": "Dev Poriya",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Dev Poriya.jpg"
+  },
+  {
+    "name": "Anushree Devarashetty",
+    "department": "Digital Creatives",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Anushree Devarashetty.jpg"
+  },
+  {
+    "name": "Vignesh Baiju",
+    "department": "App Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Vignesh Baiju.jpg"
+  },
+  {
+    "name": "Sharvil Gharkar",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Sharvil Gharkar.jpg"
+  },
+  {
+    "name": "Pashin Kasad",
+    "department": "Event Operations",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Pashin Kasad.jpg"
+  },
+  {
+    "name": "Naitik Lodha",
+    "department": "Web Dev",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Naitik Lodha.jpg"
+  },
+  {
+    "name": "Raunak Suvarna",
+    "department": "Photography",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Raunak Suvarna.jpg"
+  },
+  {
+    "name": "Divyaprasad Sahu",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Divyaprasad Sahu.jpg"
+  },
+  {
+    "name": "Tia Gala",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Tia Gala.jpg"
+  },
+  {
+    "name": "Jugaad Chhabra",
+    "department": "App Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Jugaad Chhabra.png"
+  },
+  {
+    "name": "Soham Doiphode",
+    "department": "In-House Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Soham Doiphode.jpg"
+  },
+  {
+    "name": "Shivane Singh",
+    "department": "Business Development",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Shivane Singh.jpg"
+  },
+  {
+    "name": "Dhruv Sharma",
+    "department": "Business Development",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Dhruv Sharma.jpg"
+  },
+  {
+    "name": "Naman Chhaparia",
+    "department": "AI/ML",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Naman Chhaparia.jpg"
+  },
+  {
+    "name": "Tanay Kumar",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Tanay Kumar.png"
+  },
+  {
+    "name": "Kayan Guard",
+    "department": "Business Development",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Kayan Guard.png"
+  },
+  {
+    "name": "Devendra Singh Rao",
+    "department": "Business Development",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Devendra Singh Rao.jpg"
+  },
+  {
+    "name": "Garv Bhatia",
+    "department": "Business Development",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Garv Bhatia.jpg"
+  },
+  {
+    "name": "Jahnavi Dombe",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Jahnavi Dombe.png"
+  },
+  {
+    "name": "Prasham Damani",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Prasham Damani.jpg"
+  },
+  {
+    "name": "Likhit Desai",
+    "department": "In-House Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Likhit Desai.jpg"
+  },
+  {
+    "name": "Vansh Kharidia",
+    "department": "AI/ML",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Vansh Kharidia.jpg"
+  },
+  {
+    "name": "Dhruvi Paprunia",
+    "department": "Photography",
+    "designation": "Sub Head",
+    "year": 2023,
+    "image": "./data/images/Dhruvi Paprunia.jpg"
+  },
+  {
+    "name": "Rishit Desai",
+    "department": "Web Dev",
+    "designation": "Head",
+    "year": 2023,
+    "image": "./data/images/Rishit Desai.jpg"
+  },
+  {
+    "name": "Sia Nair",
+    "department": "Photography",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Sia Nair.jpg"
+  },
+  {
+    "name": "Nirmit Desai",
+    "department": "Event Operations",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Nirmit Desai.jpg"
+  },
+  {
+    "name": "Arya Parte",
+    "department": "Marketing and Communication",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Arya Parte.jpg"
+  },
+  {
+    "name": "Neerav Reddy",
+    "department": "UI/UX",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Neerav Reddy.jpg"
+  },
+  {
+    "name": "Aditya Negi",
+    "department": "App Dev",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Aditya Negi.jpg"
+  },
+  {
+    "name": "Bhushan Chavan",
+    "department": "Digital Creatives",
+    "designation": "Executive",
+    "year": 2023,
+    "image": "./data/images/Bhushan Chavan.png"
+  }
+]
